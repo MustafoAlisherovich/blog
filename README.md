@@ -4,10 +4,19 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org/)  
 [![shadcn/ui](https://img.shields.io/badge/shadcn-ui-%23000000.svg?logo=shadcn)](https://ui.shadcn.com/)  
 [![Hygraph](https://img.shields.io/badge/Hygraph-CMS-blueviolet)](https://hygraph.com/)  
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)  
 
 A modern and feature-rich blog platform built with **Next.js**, **TypeScript**, **shadcn/ui**, and **Hygraph CMS**.  
 Designed for fast content publishing, advanced filtering, and an elegant reading experience.  
+
+---
+
+## 📸 Screenshots
+
+![Homepage](./public/screenshots/home.png)
+
+![Course](./public/screenshots/course.png)
+
+![Dashboard](./public/screenshots/admin.png)
 
 ---
 
@@ -34,7 +43,7 @@ Designed for fast content publishing, advanced filtering, and an elegant reading
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/blog-platform.git
+git clone https://github.com/MustafoAlisherovich/blog.git
 
 # Install dependencies
 npm install
