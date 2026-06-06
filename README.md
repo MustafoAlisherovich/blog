@@ -14,9 +14,9 @@ Designed for fast content publishing, advanced filtering, and an elegant reading
 
 ![Homepage](./public/screenshots/home.png)
 
-![Course](./public/screenshots/course.png)
+![Blogs](./public/screenshots/blogs.png)
 
-![Dashboard](./public/screenshots/admin.png)
+![About](./public/screenshots/about.png)
 
 ---
 
